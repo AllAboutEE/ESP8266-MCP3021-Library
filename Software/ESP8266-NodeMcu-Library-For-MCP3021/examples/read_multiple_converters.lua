@@ -1,4 +1,4 @@
-﻿-- Reads and displays data from the MCP3021A3 every 1000 milli seconds (1 second)
+-- Reads and displays data from the MCP3021A3 every 1000 milli seconds (1 second)
 -- You'll want to use a floating point firmware version or you'll only get integers for the voltage reading
 -- MCP3021 Breakout Board: 
 

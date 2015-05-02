@@ -1,4 +1,4 @@
-﻿-- This example serves a webpage and displays the sensor/converter value (almost) live / real-time 
+-- This example serves a webpage and displays the sensor/converter value (almost) live / real-time 
 -- The computer/device from which you visit the webpage MUST have internet connection since
 -- Google hosted libraries are been used to draw the graphs and update the data
 

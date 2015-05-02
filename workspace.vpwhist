@@ -1,0 +1,20 @@
+[Global]
+CurrentProject=MCP3021.vpj
+[ActiveConfig]
+MCP3021.vpj=Debug
+[State]
+SCREEN: 1366 768 144 39 1080 693 0 0 M 0 0 0 0 1117 629 0
+CWD: ..\MCP3021-Array-Breakout-Public
+FILEHIST: 9
+..\..\Shipping-Label\shipping-label\system\libraries\Xmlrpc.php
+..\..\Shipping-Label\shipping-label\system\libraries\Session\Session.php
+..\..\Shipping-Label\shipping-label\system\database\DB.php
+..\..\Shipping-Label\shipping-label\application\libraries\AppEngineMail.php
+..\..\Shipping-Label\shipping-label\application\views\label\form.php
+..\..\Shipping-Label\shipping-label\application\controllers\Label.php
+..\..\Shipping-Label\shipping-label\application\models\Site_model.php
+..\..\Shipping-Label\shipping-label\application\controllers\Site.php
+..\..\Shipping-Label\shipping-label\application\models\label_model.php
+TBCLASS: 0 0
+[ProjectDates]
+MCP3021.vpj=20150502210931608

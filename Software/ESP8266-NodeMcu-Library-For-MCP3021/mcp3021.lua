@@ -1,4 +1,4 @@
-﻿---
+---
 -- @date April 03, 2015
 --
 -- @description A module/library for the MCP3021,
