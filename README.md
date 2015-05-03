@@ -26,7 +26,10 @@ We developed some Open Source, easy to use, libraries and examples so you can ge
 
 ## **Hardware:**
 
-### **Converter Specs:**
+#### **Breakout Board Dimensions:**
+1.00x0.50 inches (25.43x12.70 mm)
+
+#### **Converter Specs:**
 
 - 4 Microchip MCP3021 A/D converters
 - I2C interface
@@ -38,7 +41,7 @@ See the [MCP3021 A/D converter datasheet](http://ww1.microchip.com/downloads/en/
 
 **Note:** If you are going to use this board with an ESP8266 you will need to power it with 3.3V and the analog inputs can only accept 0V to 3.3V. If you want to read voltage levels greater than 3.3V you'll have to add logic level converters at SCL and SDA.
 
-### **Pinout:**
+#### **Pinout:**
 
 
 - VDD - 2.7V to 5.5V (Note: If using with ESP8266 you'll have to use 3.3V for this pin, if you don't use 3.3v you'll have to add a logic voltage converter at SCL and SDA to match with the ESP8266 3.3V levels.
@@ -50,9 +53,9 @@ See the [MCP3021 A/D converter datasheet](http://ww1.microchip.com/downloads/en/
 - AIN2 - Analog input 2 (0v to VDD)
 - AIN3 - Analog input 3 (0v to VDD)
 
-### **Dimensions**
-1.00x0.50 inches (25.43x12.70 mm)
+#### **Schematic:**
 
+![MCP3021 Schematic](https://raw.githubusercontent.com/AllAboutEE/ESP8266-MCP3021-Library/master/schematic.PNG)
 
 ## **FAQs:**
 
