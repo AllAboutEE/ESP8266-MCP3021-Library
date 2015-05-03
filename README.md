@@ -8,13 +8,6 @@ The ESP8266 is great module, but it lacks some functionality that it's often nec
 
 This board solves this problem by giving your ESP8266 module access to 4 analog to digital converters (analog inputs) via I2C.
 
-## **What's Included?**
-
-- board with 4 MCP3021 A/D converters. 
-- 8 pin male header (not soldered)
-
-**Note:** ESP8266 NOT included.
-
 ## **Software:**
 
 We developed some Open Source, easy to use, libraries and examples so you can get started quickly.
