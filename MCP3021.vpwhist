@@ -4,3 +4,22 @@ CurrentProject=MCP3021.vpj
 MCP3021.vpj=20150502212837906
 [ActiveConfig]
 MCP3021.vpj=Debug
+[State]
+SCREEN: 1366 768 144 39 1082 695 0 0 N 0 0 0 0 833 439 0
+CWD: ..\MCP3021-Array-Breakout-Public
+FILEHIST: 9
+Software\ESP8266-NodeMcu-Library-For-MCP3021\mcp3021.lua
+Software\ESP8266-NodeMcu-Library-For-MCP3021\examples\read_multiple_converters.lua
+Software\ESP8266-NodeMcu-Library-For-MCP3021\examples\read_one_converter.lua
+Software\ESP8266-NodeMcu-Library-For-MCP3021\examples\web_page_monitor.lua
+workspace.vpw
+MCP3021.vpwhist
+MCP3021.vpw
+workspace.vpwhist
+MCP3021.vpj
+TBCLASS: 0 0
+DEBUG: 0 0 0 0 3 0 gdb
+printf
+strcpy
+std::*
+DEBUG2: 0
