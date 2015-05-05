@@ -5,7 +5,7 @@
  *        analog value from the MCP3021A0 converter.
  *  
  * @link  You can buy an MCP3021 array breakout board from this 
- *        URL:
+ *        URL: https://www.tindie.com/products/AllAboutEE/esp8266-analog-inputs-expander/
  *  
  * @note Converter datasheet 
  *       http://ww1.microchip.com/downloads/en/DeviceDoc/21805B.pdf

@@ -1,6 +1,6 @@
 -- Reads and displays data from the MCP3021A3 every 1000 milli seconds (1 second)
 -- You'll want to use a floating point firmware version or you'll only get integers for the voltage reading
--- MCP3021 Breakout Board: 
+-- MCP3021 Breakout Board: https://www.tindie.com/products/AllAboutEE/esp8266-analog-inputs-expander/
 
 require ("mcp3021")
 

@@ -1,3 +1,4 @@
+-- MCP3021 Breakout Board: https://www.tindie.com/products/AllAboutEE/esp8266-analog-inputs-expander/
 -- This example serves a webpage and displays the sensor/converter value (almost) live / real-time 
 -- The computer/device from which you visit the webpage MUST have internet connection since
 -- Google hosted libraries are been used to draw the graphs and update the data

@@ -1,3 +1,4 @@
+// Hardware: https://www.tindie.com/products/AllAboutEE/esp8266-analog-inputs-expander/
 #ifndef _ALLABOUTEE_MCP3021_H
 #define _ALLABOUTEE_MCP3021_H
 

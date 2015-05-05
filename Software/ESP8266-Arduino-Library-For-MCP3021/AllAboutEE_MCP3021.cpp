@@ -1,3 +1,4 @@
+// Hardware: https://www.tindie.com/products/AllAboutEE/esp8266-analog-inputs-expander/
 #include <AllAboutEE_MCP3021.h>
 
 /**

@@ -4,14 +4,12 @@
 -- @description A module/library for the MCP3021,
 -- an I2C 10-bit A/D converter with a pre-programmed address of 0b1001000 to 0b1001111.
 --
--- @datasheet http://ww1.microchip.com/downloads/en/DeviceDoc/21805B.pdf
---
 -- @author Miguel 
 --  GitHub: https://github.com/AllAboutEE 
 --  YouTube: https://www.youtube.com/user/AllAboutEE
 --  Website: http://AllAboutEE.com
 --
--- MCP3021 Breakout Board: 
+-- MCP3021 Breakout Board: https://www.tindie.com/products/AllAboutEE/esp8266-analog-inputs-expander/
 --------------------------------------------------------------------------------------------
 local moduleName = ... 
 local M = {}
