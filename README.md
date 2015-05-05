@@ -1,5 +1,7 @@
 # ESP8266 Analog Input Expander Library for MCP3021 A/D Conveters
 
+[MCP3021 Breakout Board Product Page](https://www.tindie.com/products/AllAboutEE/esp8266-analog-inputs-expander/)
+
 ## **What is it?**
 A board with four analog to digital (A/D) converters that your ESP8266 can interface with it using I2C.
 
